@@ -1,9 +1,14 @@
 # **4팀**   
 
-## github address
-1. [Bangjeho github]( https://www.github.com/Bangjeho "Bangjeho github address")
+## 자기소개
+1. name: 방제호
 
-## 취미 및 관심분야
+2. age: 23(1998년생)
+
+3. email: fix9111@naver.com
+
+3. github address: [Bangjeho github]( https://www.github.com/Bangjeho "Bangjeho github address")
+
 1. 취미
     - _game_
     - _kickboxing_
