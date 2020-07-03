@@ -34,6 +34,8 @@
 
 이동환
 
+![구글](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
 ## Quotes
 방제호
 
@@ -41,6 +43,7 @@
 
 이동환
 
+> **삶이 있는 한 희망은 있다** - 키케로
 
 ## Code
 방제호
@@ -53,6 +56,9 @@ for i in range(1,100):
 
 이동환
 
+```python
+print("파이썬입니다.")
+``` 
 
 ## Table
 방제호
@@ -69,5 +75,10 @@ for i in range(1,100):
 
 이동환
 
+**호불호 음식**
 
+
+| 이름 | 떡볶이 | 고구마 | 피자 |
+| :----: | :----: | :----: | :----: |
+| 이동환 | ㅇ | x | ㅇ | 
 
