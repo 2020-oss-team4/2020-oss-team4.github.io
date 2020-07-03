@@ -13,6 +13,18 @@
         - _**machine learning**_
         - _**data preprocessing**_
 
+2. 이동환
+   - age: 23(1998년생)
+   - email: leedh2717@naver.com
+   - github address: [leedonghwan github](https://www.github.com/leedh2717 "leedh2717 github address")
+   - 취미
+        - _game_
+        - _badminton_
+
+   - 관심분야
+        - _**develop Web**_
+        - _**develop App**_
+
 ## Image
 방제호
 
