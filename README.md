@@ -1,15 +1,31 @@
 # **4팀**   
 
 ## 사이트 종류
+1. [Bangjeho github]( https://www.github.com/Bangjeho "Bangjeho github address")
 
-1. Bangjeho github: [Github][1]
+## 취미 및 관심분야
+1. 취미
+    -게임
+    -킥복싱
+
+2. 관심분야
+    - _**machine learning**_
+    - _**data preprocessing**_
+
+## 박명수 명언 모음
+![img](https://i.redd.it/cgxzlnr68x841.jpg)
+
 ## 명언
-> **삶이 있는 한 희망은 있다** - 키케로  
+> **늦었다고 생각할때는 이미 늦었다. 지금 당장 시작하라.** - 박명수  
+
 
 ## Code
 ```python
-print("파이썬입니다.")
+for i in range(1,100):
+	if i%%2 == 0 :
+		print(i,"는 짝수입니다.")		
 ```  
+
 ## 운동
 |운동| 공 | 라켓(치는 류)| 글러브|
 |:----:| :-----: | :-----:|:------:|
@@ -22,4 +38,3 @@ print("파이썬입니다.")
 
 
 
-[1]: https://www.github.com/Bangjeho
