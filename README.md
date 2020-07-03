@@ -6,12 +6,12 @@
    - email: fix9111@naver.com
    - github address: [Bangjeho github](https://www.github.com/Bangjeho "Bangjeho github address")
    - 취미
-    - _game_
-    - _kickboxing_
+        - _game_
+        - _kickboxing_
 
    - 관심분야
-    - _**machine learning**_
-    - _**data preprocessing**_
+        - _**machine learning**_
+        - _**data preprocessing**_
 
 ## Image
 방제호
@@ -44,7 +44,7 @@ for i in range(1,100):
 ## Table
 방제호
 
-운동에 따른 필요한 장비
+**운동에 따른 필요한 장비**
 |운동| 공 | 라켓(치는 류)| 글러브|
 |:----:| :-----: | :-----:|:------:|
 |축구|O|X|X|
