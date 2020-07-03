@@ -16,7 +16,8 @@
 ## Image
 방제호
 
-박명수 명언 모음
+**박명수 명언 모음**
+
 ![img](https://i.redd.it/cgxzlnr68x841.jpg)
 
 이동환
