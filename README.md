@@ -1,21 +1,17 @@
 # **4팀**   
 
 ## 자기소개
-1. name: 방제호
+1. 방제호
+   - age: 23(1998년생)
+   - email: fix9111@naver.com
+   - github address: [Bangjeho github](https://www.github.com/Bangjeho "Bangjeho github address")
+   - 취미
+          - _game_
+          - _kickboxing_
 
-2. age: 23(1998년생)
-
-3. email: fix9111@naver.com
-
-3. github address: [Bangjeho github]( https://www.github.com/Bangjeho "Bangjeho github address")
-
-1. 취미
-    - _game_
-    - _kickboxing_
-
-2. 관심분야
-    - _**machine learning**_
-    - _**data preprocessing**_
+   - 관심분야
+         - _**machine learning**_
+         - _**data preprocessing**_
 
 ## 박명수 명언 모음
 ![img](https://i.redd.it/cgxzlnr68x841.jpg)
